@@ -1,6 +1,6 @@
 # gofinder
 CLI tool for searching phrase in specific files in specified directory<br>
-
+<pre>
 Usage of ./gofinder:<br>
   -dir string<br>
       directory to search (default "/home/")<br>
@@ -8,4 +8,5 @@ Usage of ./gofinder:<br>
     suffixes for files to be searched (default ".py,.go")<br>
   -search string<br>
     phrase to search in files (default "import requests")
+</pre>
 
