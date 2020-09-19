@@ -9,4 +9,5 @@ Usage of ./gofinder:<br>
   -search string<br>
     phrase to search in files (default "import requests")
 </pre>
-
+<br>
+Ubuntu 18.04 MD5: 1f7c11386f81331f67ee835ebf2aff61
